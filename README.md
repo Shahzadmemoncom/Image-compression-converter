@@ -1,14 +1,14 @@
-# Welcome to your Lovable project
+# Welcome to your phonescompk project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c1e36fea-13a9-4bcd-b062-0c9a2d2377c3
+**URL**:
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use phonescompk**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/c1e36fea-13a9-4bcd-b062-0c9a2d2377c3) and start prompting.
 
